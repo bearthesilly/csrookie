@@ -1,5 +1,5 @@
 # csrookie
-This github repository aims to record my studying path in cs. My personal website is here: [csrookie](https://bearthesilly.github.io)
+This github repository aims to provide course resources. My personal website is here: [csrookie](https://bearthesilly.github.io)
 
 I finished the internship in [4DVLab](https://4dvlab.github.io/index.html) in September, 2024, proudly under the instruction and guidance of [Prof.Yuexin Ma](https://yuexinma.me/aboutme.html) and senior [Yiteng Xu](https://yiteng-xu.github.io/). Currently, with great honor, I am working with [Prof.Kewei Tu](https://faculty.sist.shanghaitech.edu.cn/faculty/tukw/) and [Prof.Kan Ren](https://sist.shanghaitech.edu.cn/rk/list.htm).  
 
